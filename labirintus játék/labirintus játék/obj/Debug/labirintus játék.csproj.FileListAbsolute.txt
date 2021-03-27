@@ -1,0 +1,7 @@
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\bin\Debug\labirintus játék.exe.config
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\bin\Debug\labirintus játék.exe
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\bin\Debug\labirintus játék.pdb
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\obj\Debug\labirintus játék.csprojAssemblyReference.cache
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\obj\Debug\labirintus játék.csproj.CoreCompileInputs.cache
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\obj\Debug\labirintus játék.exe
+D:\Prog\Komplex\C#\labirintus játék\labirintus játék\obj\Debug\labirintus játék.pdb
